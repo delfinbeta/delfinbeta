@@ -1,6 +1,6 @@
 # 👋🏽 Hola chamos, yo soy DelfinBeta 🐬
 
-**@delfinbeta** es mi _apodo en redes sociales_, mi nombre es `Dayan Betancourt` 👧🏾. Me dedico al desarrollo web Frontend y Backend. Soy fundadora de [Tecno D 2.0](https://tecnod20.com) y Líder de la la comunidad de tecnología [H/F Maracay](https://hfmaracay.com.ve). Y soy orgullosamente Venezolana :venezuela: 🇻🇪
+**@delfinbeta** es mi _apodo en redes sociales_, mi nombre es `Dayan Betancourt` 👧🏾. Me dedico al desarrollo web Frontend y Backend. Soy fundadora de [Tecno D 2.0](https://tecnod20.com) y Líder de la la comunidad de tecnología [H/F Maracay](https://hfmaracay.com.ve). Y soy orgullosamente Venezolana ![Venezuela](https://img.icons8.com/color/16/000000/venezuela.png)
 
 - 💻 Actualmente utilizo el framework Laravel para el desarrollo web.
 - 📘 Estoy interesada en aprender sobre Frontend (Js - Vue) y Transformación Digital.
