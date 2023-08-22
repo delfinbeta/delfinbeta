@@ -7,7 +7,7 @@
 - 💬 Puedes preguntarme sobre HTML, PHP y Laravel
 
 ## Mis contactos son:
-- 🌎 [delfinbeta.com.ve](https://delfinbeta.com.ve)
+- 🌎 [delfinbeta.tech](https://delfinbeta.tech)
 - ![Linkedin](https://img.icons8.com/color/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/delfinbeta/)
 - ![Twitter](https://img.icons8.com/fluent/16/000000/twitter.png) [Twitter](https://twitter.com/delfinbeta)
 - ![Facebook](https://img.icons8.com/fluent/16/000000/facebook-new.png) [Facebook](https://www.facebook.com/delfinbeta)
